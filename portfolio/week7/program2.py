@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 if __name__ == "__main__":
     def atleast_one(word1, word2):
         print('These letters are in atleast 1 word: ', word1 | word2)

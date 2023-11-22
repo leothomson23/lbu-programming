@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 if __name__ == "__main__":
     def decrypt(message, interval):
         print('Your message decrypted would be: ',message[interval - 1::interval])

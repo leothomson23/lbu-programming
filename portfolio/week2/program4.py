@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 if __name__ == "__main__":
     played = 609
     batted = 1014

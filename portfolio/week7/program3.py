@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 if __name__ == "__main__":
     def countries_and_capitals():
         list = {'england':'London', 'scotland':'Edinburgh', 'wales':'Cardiff', 'spain':'Madrid', 'germany':'Munich'}
